@@ -62,3 +62,24 @@ li {
 li:last-child {
     border-bottom: none;
 }
+.submitted{
+    margin-top: -2rem;
+    text-align: center;
+}
+.submitted p{
+    font-size: 1.3rem;
+}
+.container1 {
+    text-align: center;
+}
+  
+.container1 ul {
+    display: inline-block;
+    text-align: left;
+    border : none;
+}
+.container1 li{
+    float: left;
+    margin-right: 3rem;
+    border: none;
+}
