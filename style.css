@@ -69,3 +69,12 @@ li:last-child {
 .submitted p{
     font-size: 1.3rem;
 }
+.bvu{
+    height: 8rem;
+}
+.bvucoep{
+    float: left;
+    height: 5rem;
+    margin-left: 85%;
+    margin-top: -7rem;
+}
